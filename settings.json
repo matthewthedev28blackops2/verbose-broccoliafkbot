@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ExtremeSurvive.aternos.me",
-    "port": 50416,
+    "ip": "theextremesurvival201.mcsh.io",
+    "port": 25565,
     "version": "1.21.1",
     "try-creative": false
   },
